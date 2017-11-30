@@ -28,4 +28,4 @@ Brief Introduction
 
 3. I didn't upload the data under ./data folder since the total size is too large. But I upload some used experimental data into a dropbox folder. You can find the experimental data here. [Download](https://www.dropbox.com/sh/42vei96g0vf56dy/AAATUsvDMq7uXkkPsDF87K5pa?dl=0).
 
-4. I am happy that many readers sent emails to me on questions about the paper and code since the paper was published. I am always trying my best to reply to those emails. My latest email address is lyang@cs.umass.edu / yangliuyx@gmail.com. You can also use the "Issues" function in Github so that there are QA threads which can be referred to by future readers.
+4. I am happy that many readers of our CIKM'13 paper sent emails to me on questions about the paper and code since the paper was published. I am always trying my best to reply to those emails. My latest email address is lyang@cs.umass.edu / yangliuyx@gmail.com. I encourange you to use the "Issues" function in Github (https://github.com/yangliuy/TopicExpertiseModel/issues) so that there are QA threads which can be referred to by future readers.
